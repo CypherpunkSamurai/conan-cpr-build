@@ -1,0 +1,6 @@
+[requires]
+cpr/1.9.0
+openssl/1.1.1q
+
+[generators]
+cmake
